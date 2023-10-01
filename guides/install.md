@@ -45,6 +45,11 @@ Regardless of which installation method you use, you will have to set up WireGua
 
 If your iOS device restarts, you will have to toggle SideStore's VPN on again.
 
+# Install via SideServer (Windows)
+{: .important-title }
+> As of right now SideServer Windows breaks your SideStore ability to refresh SideStore as it fails to sign the widgets properly, we are looking into a fix.
+> For now we recommend following the AltServer Windows route.
+
 # Install via SideServer (Mac)
 
 Currently, this method is only available for macOS. To install via Windows, or if this method is not working, see the next section. Before you start, make sure to [setup WireGuard](#Setting-up-WireGuard) and is within the [install requirements](#Install-Requirements)!
